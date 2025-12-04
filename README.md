@@ -33,7 +33,7 @@ FaceGuardPro v3.0'a hoş geldiniz! Yapay zeka destekli akıllı güvenlik sistem
 ### Kurulum Adımları
 
 1. **Setup Dosyasını İndirin**
-   - [`FaceGuardPro_v3.0_setup.exe`](https://github.com/eminaruk/FaceGuardPro/releases/download/v3.0/FaceGuardPro_v3.0_setup.exe) dosyasını indirin
+   - [`windows_faceguard_3.0_setup.exe`](https://github.com/eminaruk/FaceGuardPro/releases/download/v3.0/windows_faceguard_3.0_4.12.2025_setup.exe) dosyasını indirin
 
 2. **Kurulumu Başlatın**
    - Setup dosyasına çift tıklayın
